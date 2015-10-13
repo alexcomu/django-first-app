@@ -1,0 +1,9 @@
+My First Django application!
+
+HOW TO:
+
+- pip install django
+- python manage.py migrate
+- python manage.py createsuperuser
+- python manage.py runserver
+- open http://localhost:8000
